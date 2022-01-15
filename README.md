@@ -1,4 +1,4 @@
-# evolutionary_computing_TSP_solver
+# Approximate Traveling Salesman Problem (TSP) solver with Probabilistic Evolutionary Computing /w Tribes
 
 Approximate Traveling Salesman Problem (TSP) solver using probabilistic evolutionary computing with tribes
 
@@ -33,6 +33,9 @@ After the evolution step is done, we do a little of local optimization on the be
 #### An example optimization path
 
 ![An Optimization ](example_optimization_40.png)
+
+- blue = best genome in the population
+- orange = worst genome in the population
 
 ### Notes
 
