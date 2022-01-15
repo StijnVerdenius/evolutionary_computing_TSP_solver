@@ -78,3 +78,4 @@ Options:
   --help                      Show this message and exit.
 ```
 
+> good defaults ar provided for these arguments
